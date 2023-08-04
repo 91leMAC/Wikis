@@ -2,7 +2,7 @@
 https://www.craft.me/s/OfPNhukA0Cjb3A
 
 ## Markdown Code
-**If you want to duplicate it, open the link to the craft document. And copy/paste into your own craft document
+**If you want to duplicate it, open the link to the craft document. And copy/paste into your own craft document.**
 
 ``` # Comment résoudre un crash modpack
 
