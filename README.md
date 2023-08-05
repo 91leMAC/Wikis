@@ -1,4 +1,4 @@
-# WIKIS
+![blueprint (1).jpeg](https://cdn.discordapp.com/attachments/904114944344195172/1137400293177446400/blueprint_1.jpeg)
 
 Wikis is a project to create fancy documentation and tutorials to help Minecraft players.
 
